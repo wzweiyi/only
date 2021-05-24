@@ -1,6 +1,6 @@
 # 王珍
 
-三年时间内不急不急
+三年时间内不急不急你看
 - 5.23日报
     - leeCode题库
        - [ x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
